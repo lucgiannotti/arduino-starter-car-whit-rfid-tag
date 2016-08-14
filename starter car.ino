@@ -1,4 +1,4 @@
-/*name project: Elektroape
+/*name project: Elektrocar
   start date and finish date of programming: to 22/04/2015 to 10/06/2015
   programmer: Giannotti Luca
   target: start my car whit rfid tag and show external temperature on 16x2 lcd display
